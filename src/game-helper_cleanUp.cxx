@@ -7,3 +7,4 @@ void GameHelper::cleanUp () {
     SDL_FreeSurface(Surf_Display);
 	SDL_Quit();
 }
+
