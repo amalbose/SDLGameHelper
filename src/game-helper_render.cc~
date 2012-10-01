@@ -1,8 +1,0 @@
-#include "game-helper.h"
-
-/*
- *  Handle the events 
- */
-void GameHelper::render () {
-	
-}
