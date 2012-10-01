@@ -1,0 +1,4 @@
+axa-tile.o: /home/amalbose/workspace/gamehelper/src/axa-tile.cc \
+ /home/amalbose/workspace/gamehelper/src/axa-tile.h
+
+/home/amalbose/workspace/gamehelper/src/axa-tile.h:
